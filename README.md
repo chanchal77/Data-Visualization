@@ -15,7 +15,7 @@
     <h2><div id = "Demo2">Demo 2</div> </h2><br>
     <h3>1. Import Dataset : </h3> Download and import the dataset
     <h3>2. Data Cleaning  : </h3>i) handled Null,Blanks,and split the column using split column by comma in Power Query Editor.
-    <h3>3. DAX Function Used : </h3> 
+    <h3>3. DAX Function Used : </h3> i) Date And Time Functions ,Aggregation Functions : Calendar , Year, Format, Quarter, Weeknum, Weekday, Sum<br>ii) For some visuals we need to calculate Gross profit, Total Revenue ect.
     <h3>4. Visuals Used:</h3>Slicers Charts <br> Card <br> Bar Charts <br>Pie Charts <br>Doughnut Charts<br>Mult-Row Card<br>Waterfall Charts<br>
     <img src ="https://user-images.githubusercontent.com/54575201/161820627-37788c38-8391-46c5-a195-78a0ef6d46ba.png"/><br>Credits : KSR Youtube Channel
     
